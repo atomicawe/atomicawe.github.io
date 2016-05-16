@@ -7,4 +7,5 @@ header {
   position: fixed;
   z-index: 1;
   background-color: #384452;
+  border: 1px black dotted;
 }
