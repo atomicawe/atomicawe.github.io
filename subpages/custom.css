@@ -18,6 +18,8 @@ a img {
 		#header {
 			color: #E7CD83;
 			background: #456F8B url('../images/kamar.gif') no-repeat right 10px;
+			top-left-radius: 5px;
+			top-right-radius:5px;
 		}
 		
 		#container {
