@@ -16,7 +16,7 @@ a img {
 	color: #DF7200;
 }
 		#header {
-			color: #E7CD83;
+			color: #658FAB;
 			background: #456F8B url('../images/kamar.gif') no-repeat right 10px;
 			border-top-left-radius: 5px;
 			border-top-right-radius:5px;
@@ -27,7 +27,7 @@ a img {
 		}
 		
 			#navigation {
-				background-color: #658FAB;
+				background-color: #888888;
 			}
 				#navigation li a {
 					/* each navigation item */
